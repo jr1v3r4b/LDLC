@@ -12,8 +12,8 @@ void Menu()
     cout << "4. mostrar la Lista. " << endl;
     cout << "5. Ordenar la lista " << endl;
     cout << "6. Buscar un Dato  " << endl;
-    cout << "7. Otra lista  " << endl;
-    cout << "8. mostrar otra lista " << endl;
+    cout << "7. En esta opcion creamos otra lista y la llamaremos L2  " << endl;
+    cout << "8. mostrar la otra lista " << endl;
     cout << "9. sumar listas "<< endl;
     cout << "10. Buscar y Reemplazar un dato " << endl;
     cout << "11. Eliminar un dato " << endl;

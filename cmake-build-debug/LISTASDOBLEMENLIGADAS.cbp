@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LISTASDOBLEMENLIGADAS"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LISTASDOBLEMENLIGADAS">
+				<Option output="/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/LISTASDOBLEMENLIGADAS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 LISTASDOBLEMENLIGADAS"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LISTASDOBLEMENLIGADAS/fast">
+				<Option output="/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/LISTASDOBLEMENLIGADAS" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 LISTASDOBLEMENLIGADAS/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/Lista.cpp">
+			<Option target="LISTASDOBLEMENLIGADAS"/>
+		</Unit>
+		<Unit filename="/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/Lista.h">
+			<Option target="LISTASDOBLEMENLIGADAS"/>
+		</Unit>
+		<Unit filename="/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/Nodo.cpp">
+			<Option target="LISTASDOBLEMENLIGADAS"/>
+		</Unit>
+		<Unit filename="/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/Nodo.h">
+			<Option target="LISTASDOBLEMENLIGADAS"/>
+		</Unit>
+		<Unit filename="/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/main.cpp">
+			<Option target="LISTASDOBLEMENLIGADAS"/>
+		</Unit>
+		<Unit filename="/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

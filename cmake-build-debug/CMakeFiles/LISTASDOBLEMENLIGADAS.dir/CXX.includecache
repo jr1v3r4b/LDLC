@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/Lista.cpp
+iostream
+-
+Lista.h
+/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/Lista.h
+
+/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/Lista.h
+Nodo.h
+/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/Nodo.h
+
+/Users/tecnicoudp/CLionProjects/LISTASDOBLEMENLIGADAS/Nodo.h
+
