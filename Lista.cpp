@@ -115,7 +115,6 @@ void Lista::ordenar() {
         }
         p = p->getLigaSig();
     }
-
 }
 
 void Lista::buscarDato(int dat) {
